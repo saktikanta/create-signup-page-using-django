@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img alt="Signup Page Using Django" title="Signup" src="https://github.com/saktikanta/RDP-LOGIN-GUI-INTERFACE/blob/master/rdp1.png?raw=true" width="700"></a>
+  <img alt="Signup Page Using Django" title="Signup" src="https://github.com/saktikanta/create-signup-page-using-django/blob/master/signup.GIF" width="700"></a>
   <br>
   Signup Page Using Django
   <br>
