@@ -440,4 +440,4 @@ LOGOUT_URL = 'logout'
 LOGIN_REDIRECT_URL = 'home'
 ```
 
-### Once you have all this files in its place then you can check the url (http://127.0.0.1:5081/signup/)[signup]. You will get the below page.
+### Once you have all this files in its place then you can check the url http://127.0.0.1:5081/signup/. You will get the below page.
