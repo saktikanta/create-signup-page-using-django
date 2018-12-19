@@ -1,5 +1,13 @@
 # create-signup-page-using-django
 
+<h1 align="center">
+  <br>
+  <img alt="Signup Page Using Django" title="Signup" src="https://github.com/saktikanta/RDP-LOGIN-GUI-INTERFACE/blob/master/rdp1.png?raw=true" width="700"></a>
+  <br>
+  Signup Page Using Django
+  <br>
+</h1>
+
 ### Install Django on winsows
 ```cmd
 pip install django
@@ -440,4 +448,4 @@ LOGOUT_URL = 'logout'
 LOGIN_REDIRECT_URL = 'home'
 ```
 
-### Once you have all this files in its place then you can check the url http://127.0.0.1:5081/signup/. You will get the below page.
+### Once you have all this files in its place then you can check the url http://127.0.0.1:5081/signup/.
