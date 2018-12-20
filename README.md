@@ -44,7 +44,7 @@ python manage.py help
 ```
 
 ### Tree view of files and folders
-#### To create the signup page you need to have below file structure.
+#### To create the signup page you need to have below file structure. You can downloa the project from [here](https://github.com/saktikanta/create-signup-page-using-django/tree/master/myproject2).
 ```powershell
 │   db.sqlite3
 │   manage.py
