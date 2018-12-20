@@ -1,10 +1,8 @@
-# create-signup-page-using-django
-
 <h1 align="center">
   <br>
-  <img alt="Signup Page Using Django" title="Signup" src="https://github.com/saktikanta/create-signup-page-using-django/blob/master/signup.GIF" width="700"></a>
+    Create A Signup Page Using Django
   <br>
-  Signup Page Using Django
+  <img alt="Signup Page Using Django" title="Signup" src="https://github.com/saktikanta/create-signup-page-using-django/blob/master/signup.GIF" width="700"></a>
   <br>
 </h1>
 
