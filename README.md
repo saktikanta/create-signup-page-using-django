@@ -2,6 +2,7 @@
   <br>
     Create A Signup Page Using Django
   <br>
+  <br>
   <img alt="Signup Page Using Django" title="Signup" src="https://github.com/saktikanta/create-signup-page-using-django/blob/master/signup.GIF" width="700"></a>
   <br>
 </h1>
