@@ -448,4 +448,4 @@ LOGOUT_URL = 'logout'
 LOGIN_REDIRECT_URL = 'home'
 ```
 
-### Once you have all this files in its place then, run the django server on port let say 5081 and then check the url http://127.0.0.1:5081/signup/.
+#### Once you have all these files are in its place then, run the django server on port let say 5081 and then check the url http://127.0.0.1:5081/signup/.
